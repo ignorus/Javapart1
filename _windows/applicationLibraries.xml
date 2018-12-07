@@ -1,0 +1,19 @@
+<application>
+  <component name="libraryTable">
+    <library name="byte-buddy-1.9.5">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/byte-buddy-1.9.5.jar!/" />
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/byte-buddy-agent-1.9.5.jar!/" />
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/external-system-impl.jar!/" />
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/junit5-engine-5.0.0-ALPHA.jar!/" />
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/mockito-core-2.10.0.jar!/" />
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/mockito-core-2.23.4.jar!/" />
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/objenesis-3.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/IdeaProjects/lib/mockito-core-2.23.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
