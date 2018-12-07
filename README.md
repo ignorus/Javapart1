@@ -1,2 +1,2 @@
-# Javapart1
-teste
+# JavaLearning
+Exercicios para praticar prog Java
